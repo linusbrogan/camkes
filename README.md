@@ -40,7 +40,7 @@ The applications in this repository are:
 
 `multiassembly`:
 
-`multiclient`: domonstrates multiple clients sharing one connection
+`multiclient`: demonstrates multiple clients sharing one connection
 
 `multiplier`: demonstrates the use of arrays as arguments
 
